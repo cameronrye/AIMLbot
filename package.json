@@ -1,0 +1,19 @@
+{
+  "name": "aimlbot",
+  "version": "0.0.1",
+  "description": "AIML powered chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronrye/AIMLbot.git"
+  },
+  "author": "Cameron Rye <npm@cameronrye.com> (https://cameronrye.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cameronrye/AIMLbot/issues"
+  },
+  "homepage": "https://github.com/cameronrye/AIMLbot#readme"
+}
