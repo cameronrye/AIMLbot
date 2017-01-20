@@ -7,9 +7,10 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": "ava",
+    "test": "nyc ava",
     "lint": "standard",
-    "dev": "chokidar '**/*.js' -c 'standard && ava'"
+    "dev": "chokidar '**/*.js' -c 'standard && nyc ava'",
+    "report": "nyc report --reporter=html"
   },
   "aiml": {
     "files": [
@@ -30,6 +31,8 @@
   "devDependencies": {
     "ava": "^0.17.0",
     "chokidar-cli": "^1.2.0",
+    "coveralls": "^2.11.15",
+    "nyc": "^10.1.2",
     "precommit-hook": "^3.0.0",
     "standard": "^8.6.0"
   },
