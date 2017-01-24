@@ -1,0 +1,10 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "aiml": {
+    "files": [
+      "dir/a.aiml.js",
+      "dir/b.aiml.js"
+    ]
+  }
+}
