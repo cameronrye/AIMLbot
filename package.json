@@ -29,9 +29,9 @@
   },
   "homepage": "https://github.com/cameronrye/AIMLbot#readme",
   "devDependencies": {
-    "ava": "^0.17.0",
+    "ava": "^0.18.1",
     "chokidar-cli": "^1.2.0",
-    "coveralls": "^2.11.15",
+    "coveralls": "^2.11.16",
     "get-stream": "^3.0.0",
     "nyc": "^10.1.2",
     "precommit-hook": "^3.0.0",
