@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/cameronrye/AIMLbot/badge.svg?branch=master)](https://coveralls.io/github/cameronrye/AIMLbot?branch=master)
 [![Dependency Status](https://dependencyci.com/github/cameronrye/AIMLbot/badge)](https://dependencyci.com/github/cameronrye/AIMLbot)
 [![Build status](https://ci.appveyor.com/api/projects/status/y7fsdxsr1dm7sxt2?svg=true)](https://ci.appveyor.com/project/cameronrye/aimlbot)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 
 AIML powered chatbot
