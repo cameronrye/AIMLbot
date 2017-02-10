@@ -10,6 +10,8 @@
 
 AIML powered chatbot
 
+Very much a WIP
+
 ## License
 
 MIT © [Cameron Rye](https://cameronrye.com/)
