@@ -12,6 +12,11 @@
 
 Very much a WIP
 
+For commandline use `npm cli`
+
+For testing run `npm run dev` and you will get all of your JS files linted by Standard.js and tests run by Ava.
+
+
 ## License
 
 MIT © [Cameron Rye](https://cameronrye.com/)

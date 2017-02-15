@@ -75,3 +75,4 @@ test('pkg-conf(resolve-dir): resolves tests from the package.json dir if none ar
     t.end()
   })
 })
+
