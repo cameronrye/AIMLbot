@@ -1,4 +1,5 @@
 # AIMLbot
+> AIML Powered Chatbot
 
 [![Build Status](https://travis-ci.org/cameronrye/AIMLbot.svg?branch=master)](https://travis-ci.org/cameronrye/AIMLbot)
 [![Coverage Status](https://coveralls.io/repos/github/cameronrye/AIMLbot/badge.svg?branch=master)](https://coveralls.io/github/cameronrye/AIMLbot?branch=master)
@@ -7,16 +8,38 @@
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![MIT Licensed](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
+## Installation
 
-### AIML powered chatbot
+For commandline
+```sh
+npm run cli
+```
 
-Very much a WIP
+## Usage example
+```sh
+Usage
+    aimlbot [<file|directory> ...]
 
-For commandline use `npm cli`
+Options
+    --help                 This help screen
 
-For testing run `npm run dev` and you will get all of your JS files linted by Standard.js and tests run by Ava.
+Examples
+    aimlbot
+    aimlbot bot.aiml
+    aimlbot /aiml
+```
 
+## Development Setup
+```sh
+npm run dev
+```
+You will get all of your JS files linted by Standard.js and tests run by Ava.
+
+## Release History
+* 0.0.1
+    * Work in progress
 
 ## License
 
 MIT © [Cameron Rye](https://cameronrye.com/)
+See ``LICENSE`` for more information.
