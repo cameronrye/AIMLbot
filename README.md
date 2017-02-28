@@ -9,13 +9,16 @@
 [![MIT Licensed](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 ## Installation
+```sh
+npm install
+```
 
-For commandline
+## Commandline
 ```sh
 npm run cli
 ```
 
-## Usage example
+## Usage
 ```sh
 Usage
     aimlbot [<file|directory> ...]
@@ -30,10 +33,11 @@ Examples
 ```
 
 ## Development Setup
+You will get all of your JS files linted by Standard.js and tests run by Ava
+
 ```sh
 npm run dev
 ```
-You will get all of your JS files linted by Standard.js and tests run by Ava.
 
 ## Release History
 * 0.0.1
@@ -42,4 +46,5 @@ You will get all of your JS files linted by Standard.js and tests run by Ava.
 ## License
 
 MIT © [Cameron Rye](https://cameronrye.com/)
+
 See ``LICENSE`` for more information.
